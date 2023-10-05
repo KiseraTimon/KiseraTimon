@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @KiseraTimon
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on software development using C++ and Java
-- 📫 How to reach me ...email: timonkisera10@gmail.com
+# React + Vite
 
-- This project is a file manager
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
