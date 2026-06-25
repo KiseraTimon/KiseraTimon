@@ -1,6 +1,6 @@
 <svg width="100%" viewBox="0 0 680 360" role="img" xmlns="http://www.w3.org/2000/svg">
-<title>Aicha Mbongo — AI, e-Health, Data, Engineering</title>
-<desc>Abstract neural network with ECG heartbeat pulse representing AI and healthcare</desc>
+<title>Aicha Mbongo — Systems Research, ML, Engineering, NLP, Automation</title>
+<desc>Abstract animated network representing systems research, ML, engineering, NLP, and automation</desc>
 <defs>
 <style>
 @keyframes nodePulse{0%,100%{opacity:.3;r:5}50%{opacity:1;r:7}}
@@ -86,9 +86,9 @@
 <line x1="40" y1="325" x2="640" y2="325" stroke="#0e7490" stroke-width=".4" opacity=".3"/>
 <polyline class="ecg" points="40,325 130,325 155,325 165,295 175,355 185,280 195,355 205,325 295,325 320,325 330,310 340,325 440,325 465,325 475,295 485,355 495,280 505,355 515,325 615,325 640,325" fill="none" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
 <polyline class="ecg2" points="40,325 130,325 155,325 165,295 175,355 185,280 195,355 205,325 295,325 320,325 330,310 340,325 440,325 465,325 475,295 485,355 495,280 505,355 515,325 615,325 640,325" fill="none" stroke="#22d3ee" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-<text class="t1" x="100" y="348" text-anchor="middle" font-size="16" font-weight="bold" fill="#0e7490" font-family="monospace" letter-spacing="1">AI</text>
-<text class="t2" x="232" y="348" text-anchor="middle" font-size="16" font-weight="bold" fill="#0e7490" font-family="monospace" letter-spacing="1">e-Health</text>
-<text class="t3" x="340" y="348" text-anchor="middle" font-size="16" font-weight="bold" fill="#06b6d4" font-family="monospace" letter-spacing="1">Data</text>
+<text class="t1" x="100" y="348" text-anchor="middle" font-size="16" font-weight="bold" fill="#0e7490" font-family="monospace" letter-spacing="1">Systems Research</text>
+<text class="t2" x="232" y="348" text-anchor="middle" font-size="16" font-weight="bold" fill="#0e7490" font-family="monospace" letter-spacing="1">NLP</text>
+<text class="t3" x="340" y="348" text-anchor="middle" font-size="16" font-weight="bold" fill="#06b6d4" font-family="monospace" letter-spacing="1">Automation</text>
 <text class="t4" x="448" y="348" text-anchor="middle" font-size="16" font-weight="bold" fill="#0e7490" font-family="monospace" letter-spacing="1">ML</text>
 <text class="t1" x="568" y="348" text-anchor="middle" font-size="16" font-weight="bold" fill="#0e7490" font-family="monospace" letter-spacing="1">Engineering</text>
 </svg>
