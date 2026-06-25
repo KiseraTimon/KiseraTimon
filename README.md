@@ -135,7 +135,7 @@ I'm always open to conversations about **e-health**, **AI for social good**, **r
 ![African Tech Community](https://img.shields.io/badge/🌍%20African%20Tech%20Community-1a3a4a?style=flat-square)
 
 <p align="center">
-  <img src="./timon.svg" width="500" alt="Animation on interests" />
+  <img src="./timon.svg.svg" width="500" alt="Animation on interests" />
 </p>
 
 <p align="center">
