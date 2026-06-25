@@ -113,3 +113,35 @@ I actively engage with upcoming developers, translating low-level programming co
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
 </p>
+
+## 🤝 Connect With Me
+
+I'm always open to conversations about **e-health**, **AI for social good**, **research collaboration**, or tech in Africa 🌍
+
+<p align="center">
+  <a href="https://linkedin.com/in/kiseratimon" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="timon.kisera@strathmore.edu">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+**I'm always open to conversations about **industrial automation**, **distributed systems design**, **civic tech**, or engineering high-throughput infrastructure in Africa 🌍**
+
+![Research Collaboration](https://img.shields.io/badge/🔬%20Research%20Collaboration-2c5364?style=flat-square)
+![Programming Collaboration](https://img.shields.io/badge/🧑🏾‍💻%20Programming%20Collaboration-203a43?style=flat-square)
+![Engineering Consulting](https://img.shields.io/badge/⚙️%20Engineering%20Consulting-0f0c29?style=flat-square)
+![African Tech Community](https://img.shields.io/badge/🌍%20African%20Tech%20Community-1a3a4a?style=flat-square)
+
+<p align="center">
+  <img src="./timon.svg" width="500" alt="Animation on interests" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=120&section=footer" />
+</p>
+
+<p align="center"><i>Architecting low-latency infrastructure · Bridging AI and Industrial Systems · Building Solutions that Matter · Transforming the Next Generation of Engineers 🌍</i></p>
+
+---
