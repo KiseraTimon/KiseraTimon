@@ -24,7 +24,7 @@
 
 I'm an **Industrial Automation Software Engineer, Systems Researcher, and Final-Year Computer Science student** at **Strathmore University, Nairobi**.
 
-My research and engineering interests sit at the heart of **asynchronous distributed architectures and operational systems optimization**. I focus on designing high-throughput data pipelines, real-time caching systems, and mathematical optimization models capable of modernizing industrial processes and supply chains. My goal is to engineer resilient, low-latency infrastructure that transitions legacy environments into data-driven, automated systems.
+My research and engineering interests sit at the heart of **asynchronous distributed architectures and industrial systems optimization**. I focus on designing high-throughput data pipelines, real-time caching systems, and mathematical optimization models capable of modernizing industrial processes and supply chains. My goal is to engineer resilient, low-latency infrastructure that transitions legacy environments into data-driven, automated systems.
 
 Beyond pure research, I design, build and scale **practical, production-grade enterprise utilities**, with a few notable projects being: a three-sided AI-augmented shopping & delivery platform for a local supermarket, civic tech tools that make Kenyan constitutional law semantically searchable, data enrichment pipelines for the Kenyan court system, and reconciliation tooling built during a legal tech internship at the **Kenya Revenue Authority**. I've sharpened this work across stints at **Eenovators Ltd** and through an active freelance software programming practice.
 
