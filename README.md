@@ -104,16 +104,6 @@ I actively engage with upcoming developers, translating low-level programming co
 
 ---
 
-## Connect With Me
-
-- 💼 **LinkedIn:** [linkedin.com/in/kiseratimon](https://linkedin.com/in/kiseratimon)
-- 📧 **Email:** `timonkisera360@gmail.com`
-- 🌍 **Based in:** Nairobi / Migori, Kenya
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
-</p>
-
 ## 🤝 Connect With Me
 
 I'm always open to conversations about **e-health**, **AI for social good**, **research collaboration**, or tech in Africa 🌍
