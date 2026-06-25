@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=KISERA+TIMON&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Industrial%20Systems%20Researcher%20%7C%20Software%20Engineer&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f0c29,50:203a43,100:2c5364&text=KISERA%20TIMON&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Industrial%20Systems%20Researcher%20|%20Software%20Engineer&descAlignY=58&descColor=67e8f9&animation=fadeIn"
+  />
 </p>
 
 <p align="center">
