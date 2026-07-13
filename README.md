@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=67E8F9&center=true&vCenter=true&width=750&lines=Autonomous%20Systems%20Researcher+%F0%9F%94%AC;Building+Industrial+Production+Solutions+%F0%9F%8F%AD;Undergraduate+CS+Student+%40+Strathmore+University%2C+Nairobi;Systems%20Architect;" />
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/kiseratimon">
     <img src="https://img.shields.io/badge/LinkedIn-KiseraTimon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
